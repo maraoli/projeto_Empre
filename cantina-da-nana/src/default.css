@@ -1,0 +1,17 @@
+/*RESET*/
+html,body{
+    width: 100vw;
+    height: 100vh;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+/*VARIAVEIS*/
+body{
+    --bg-primary: #CF6E8E;
+    --bg-secondary: #8A1964;
+    --txt-color: white;
+}
