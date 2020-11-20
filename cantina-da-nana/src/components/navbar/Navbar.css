@@ -12,6 +12,7 @@
     transition: all .3s linear;
     background: #8A1964;
     display: inherit;
+    border-radius: 5px;
     padding: 5px;
 }
 
@@ -112,6 +113,7 @@
         left: -138px;
         top: 44px;
         transition: left 1.5s;
+        z-index: 4;
     }
 
     .nav__itens {
