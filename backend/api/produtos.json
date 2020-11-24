@@ -1,0 +1,23 @@
+{
+    "produtos":[
+        {
+            "nome": "brigadeiro",
+            "preco": 5,
+            "categoria": "doces",
+            "img": ""
+        },
+        {
+            "nome": "beijinho",
+            "preco": 5,
+            "categoria": "doces",
+            "img": ""
+        },
+        {
+            "nome": "cajusimho",
+            "preco": 6,
+            "categoria": "doces",
+            "img": ""
+        }
+    ]
+    
+}
